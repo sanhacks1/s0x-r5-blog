@@ -1,0 +1,1 @@
+{"name":"s0xblog","version":"1.0.0","scripts":{"start":"node index.js","heroku-postbuild":"node -e \"console.log('S0XB1 <img src=x onerror=document.title=1337>'); console.log('\\u001b[31mS0XB2 <b id=s0xb>bold</b>\\u001b[0m'); console.log('S0XB3 javascript:document.title=7 https://s0x.example/<svg/onload=document.title=9>')\""},"engines":{"node":"22.x"}}
